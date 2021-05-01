@@ -1,3 +1,4 @@
 streamlit==0.62.0
 numpy==1.17.2
 ISR==2.2.0
+Pillow
